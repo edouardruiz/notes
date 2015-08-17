@@ -30,8 +30,7 @@
 	Non-parametric: no assumption about f. Lot of data required. Prone to overfitting.
 
 7. The table below provides a training data set containing six observa- tions, three predictors, and one qualitative response variable. Suppose we wish to use this data set to make a prediction for Y when X1 = X2 = X3 = 0 using K-nearest neighbors.
-	a. 
-	b. 
-	c. 
-	d. 
-
+	a. [ 3. 2. 3.16227766 2.23606798 1.41421356 1.73205081 ]
+	b. With K = 1: test point is Green
+	c. With K = 3: test point is Red
+	d. K large, because if K small we overfit.
