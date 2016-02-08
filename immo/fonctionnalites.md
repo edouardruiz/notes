@@ -6,13 +6,13 @@
 	- Prendre connaissance de l’offre pour les particuliers
 - Inscrit :
 	- Vendre ou acheter :
-	- Renseigner un formulaire
-	- Uploader des documents (RIB, photos…)
-	- Recevoir et consulter les profils des agents sélectionnés pour une demande
-	- Choisir un agent (par rapport à son historique, sa note…) puis le contacter
-	- Valider les termes du mandat (tarif, durée, exclusivité…) et le signer
-	- Consulter le suivi des visites
-	- Valider / commenter les comptes rendus des visites
+		- Renseigner un formulaire
+		- Uploader des documents (RIB, photos…)
+		- Recevoir et consulter les profils des agents sélectionnés pour une demande
+		- Choisir un agent (par rapport à son historique, sa note…) puis le contacter
+		- Valider les termes du mandat (tarif, durée, exclusivité…) et le signer
+		- Consulter le suivi des visites
+		- Valider / commenter les comptes rendus des visites
 
 ## Agent immobilier
 - Non inscrit :
