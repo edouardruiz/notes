@@ -17,11 +17,11 @@
 ## Agent immobilier
 - Non inscrit :
 	- Déjà actif :
-	- Prendre connaissance de la description de l’offre
-	- Créer un compte
-- Non actif :
-	- Prendre connaissance des conditions pour devenir agent
-	- Automatiser les formalités administratives
+		- Prendre connaissance de la description de l’offre
+		- Créer un compte
+	- Non actif :
+		- Prendre connaissance des conditions pour devenir agent
+		- Automatiser les formalités administratives
 - Inscrit :
 	- Consulter son tableau de bord : ventes / achats en cours
 	- Evaluer un bien avec un outil d’évaluation
